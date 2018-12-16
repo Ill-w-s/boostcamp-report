@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_refresh"
+        android:title="새로고침" />
+
+    <item
+        android:id="@+id/menu_bookMark"
+        android:title="북마크에 추가" />
+
+    <item
+        android:id="@+id/menu_homeAdd"
+        android:title="홈 화면에 추가" />
+
+    <item
+        android:id="@+id/menu_another"
+        android:title="다른 브라우저로 열기" />
+
+</menu>
