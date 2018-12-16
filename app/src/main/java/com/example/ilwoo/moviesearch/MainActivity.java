@@ -24,7 +24,6 @@ import com.android.volley.toolbox.Volley;
 import com.google.gson.Gson;
 
 import java.net.URLEncoder;
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
